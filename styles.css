@@ -1,0 +1,107 @@
+body{ font-family: 'Happy Monkey', cursive;
+    background:linear-gradient(#a2d2ff, #EFB0C9);
+    
+}
+
+#Celebrant {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #EFB0C9 ;
+}
+
+.main {
+    color: #ffffff;
+    text-shadow: 0px 0px 5px black;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+}  
+
+#age{background-color: #EFB0C9 ;
+    margin-bottom: 0px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#date {
+    background-color: #EFB0C9 ;
+    margin-bottom: 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.gift {
+    text-align: center;
+    color: #ffffff;
+
+}
+
+#gift-image-1{
+    background-image: url(./Images/gift-cover.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0px auto;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+#gift-image-1:hover{
+    background-image: url(./Images/wonderful.jpg);
+}
+
+#gift-image-2{
+    background-image: url(./Images/gift-cover.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0px auto;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+#gift-image-2:hover{
+    background-image: url(./Images/hot.gif);
+}
+
+#gift-image-3{
+    background-image: url(./Images/gift-cover.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0px auto;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+#gift-image-3:hover{
+    background-image: url(./Images/genius.gif);
+}
+
+#gift-image-4{
+    background-image: url(./Images/gift-cover.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    margin: 0px auto;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+#gift-image-4:hover{
+    background-image: url(./Images/badass.gif);
+}
+
+#gift-image-5{
+    background-image: url(./Images/gift-cover.jpg);
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    margin: 0px auto;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+
+#gift-image-5:hover{
+    background-image: url(./Images/cheers.gif);
+}
